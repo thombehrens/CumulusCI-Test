@@ -36,5 +36,5 @@ class StaticSleep(Sleep):
     })
 
     def _run_task(self):
-        self.return_values["task_name"] = self.options.get("task_name")
+        self.name = self.options.get("task_name")
         super()._run_task()

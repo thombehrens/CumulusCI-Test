@@ -1,6 +1,7 @@
 {
-  "edition": "Developer", 
-  "orgName": "CumulusCI-Test Beta Test Org", 
+  "edition": "Developer",
+  "orgName": "CumulusCI-Test Dev Workspace", 
+  "instance": "cs46",
   "settings": {
     "orgPreferenceSettings": {
       "chatterEnabled": true,
